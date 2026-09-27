@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.csv
+*.xlsx
+*.tif
+*.tiff
+*.rds
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+*_GLM_Final_Outputs/
